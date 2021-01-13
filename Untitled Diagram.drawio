@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T09:03:01.961Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="C21DUndHWYmqRYqdoMdX" version="14.1.8" type="github"><diagram id="82GCJmJJAXuti9DMf3jt" name="Page-1">ddG9DoMgEADgp2FXsMbO1talk0NnIlchQc8gjbZPXw1YS2wXAt/d8XMQlrfTxfBeXlGAJjQSE2EnQmmWZvO4wNNBklEHjVHCUbxBpV7gMfL6UAKGINEiaqv6EGvsOqhtYNwYHMO0O+rw1J43sIOq5nqvNyWs9Joeki1QgmrkenScHl2k5Wu2f8ogucDxi1hBWG4QrZu1Uw56ad7aGFd3/hP93MxAZ38UzJNt73kR/BAr3g==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-13T00:32:20.236Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="4bcibaTylNt6YR0VmOub" version="14.1.8" type="github">
+  <diagram id="82GCJmJJAXuti9DMf3jt" name="组织架构图">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1mJ9yF1j7nTzTYZZFPIZ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1mJ9yF1j7nTzTYZZFPIZ-2" target="1mJ9yF1j7nTzTYZZFPIZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1mJ9yF1j7nTzTYZZFPIZ-2" value="局长（null）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1mJ9yF1j7nTzTYZZFPIZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1mJ9yF1j7nTzTYZZFPIZ-3" target="1mJ9yF1j7nTzTYZZFPIZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1mJ9yF1j7nTzTYZZFPIZ-3" value="分管局长（何局）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1mJ9yF1j7nTzTYZZFPIZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1mJ9yF1j7nTzTYZZFPIZ-5" target="1mJ9yF1j7nTzTYZZFPIZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1mJ9yF1j7nTzTYZZFPIZ-5" value="信息中心主任&lt;br&gt;（叶主任）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1mJ9yF1j7nTzTYZZFPIZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1mJ9yF1j7nTzTYZZFPIZ-7" target="1mJ9yF1j7nTzTYZZFPIZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1mJ9yF1j7nTzTYZZFPIZ-7" value="&lt;span&gt;信息中心分管副主任&lt;/span&gt;&lt;br&gt;&lt;span&gt;（张主任）&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1mJ9yF1j7nTzTYZZFPIZ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1mJ9yF1j7nTzTYZZFPIZ-9" target="1mJ9yF1j7nTzTYZZFPIZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1mJ9yF1j7nTzTYZZFPIZ-9" value="信息中心软件项目组&lt;br&gt;（李科长）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1mJ9yF1j7nTzTYZZFPIZ-11" value="&lt;span&gt;信息中心软件项目组对接人&lt;/span&gt;&lt;br&gt;&lt;span&gt;（郭梦）&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
