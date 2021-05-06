@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T10:37:39.315Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="NKtRkHzwK3049qSswyQq" version="14.6.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-06T10:57:29.875Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="av7wogATDQyxbYudIxP2" version="14.6.10" type="github" pages="2">
   <diagram id="QsT_7jNMllsjFnqrKPKj" name="现状">
     <mxGraphModel dx="1021" dy="1736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="z1eP6mnXq1Z2exaDQ6c2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z1eP6mnXq1Z2exaDQ6c2-1" target="z1eP6mnXq1Z2exaDQ6c2-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z1eP6mnXq1Z2exaDQ6c2-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="z1eP6mnXq1Z2exaDQ6c2-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="30" y="140" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z1eP6mnXq1Z2exaDQ6c2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z1eP6mnXq1Z2exaDQ6c2-2" target="z1eP6mnXq1Z2exaDQ6c2-3">
@@ -112,7 +112,7 @@
         <mxCell id="z1eP6mnXq1Z2exaDQ6c2-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="z1eP6mnXq1Z2exaDQ6c2-32" target="z1eP6mnXq1Z2exaDQ6c2-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z1eP6mnXq1Z2exaDQ6c2-32" value="保密专干&lt;br&gt;收回涉密载体" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="z1eP6mnXq1Z2exaDQ6c2-32" value="保密专干&lt;br&gt;收回涉密载体" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="330" y="260" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z1eP6mnXq1Z2exaDQ6c2-33" value="中心保密专干现场检查封口&lt;br&gt;-涉密数据台账&lt;br&gt;登记涉密数据台账信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;align=left;" vertex="1" parent="1">
@@ -133,8 +133,32 @@
             <mxPoint x="540" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z1eP6mnXq1Z2exaDQ6c2-39" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="z1eP6mnXq1Z2exaDQ6c2-39" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="30" y="260" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z1eP6mnXq1Z2exaDQ6c2-41" value="项目负责人&lt;br&gt;申请" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z1eP6mnXq1Z2exaDQ6c2-42" value="部门负责人&lt;br&gt;情况核实" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="330" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z1eP6mnXq1Z2exaDQ6c2-43" value="协管/分管领导&lt;br&gt;情况知晓" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="480" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z1eP6mnXq1Z2exaDQ6c2-44" value="中心主任&lt;br&gt;批准" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="630" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z1eP6mnXq1Z2exaDQ6c2-45" value="中心保密专干&lt;br&gt;提供涉密载体及密封包装" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="780" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z1eP6mnXq1Z2exaDQ6c2-46" value="项目负责人&lt;br&gt;现场拆封并拷贝数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="780" y="260" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z1eP6mnXq1Z2exaDQ6c2-47" value="项目负责人&lt;br&gt;请对方密封包装" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="630" y="260" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z1eP6mnXq1Z2exaDQ6c2-48" value="项目负责人&lt;br&gt;拷贝数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="480" y="260" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
