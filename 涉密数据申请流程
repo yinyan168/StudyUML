@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T11:17:22.669Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="Yy1AOYXCsGWFCzCYaROy" version="14.6.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-06T11:20:03.115Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="di5Xr79Yu3QPzK7_CtFY" version="14.6.10" type="github" pages="2">
   <diagram id="QsT_7jNMllsjFnqrKPKj" name="外部数据申请">
     <mxGraphModel dx="1021" dy="1776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,6 +189,9 @@
         </mxCell>
         <mxCell id="z1eP6mnXq1Z2exaDQ6c2-56" value="项目负责人&lt;br&gt;请对方密封包装" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;fontStyle=1;perimeterSpacing=0;glass=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="260" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt-1DJkAxpX-vgXkAjpo-1" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1、涉密数据台账&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2、涉密数据载体台账&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3、保密协议&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;4、涉密载体包装&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="500" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
